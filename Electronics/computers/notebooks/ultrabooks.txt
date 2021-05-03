@@ -1,0 +1,2 @@
+HP,Blue,Windows,528.0,4,,120,Nvidia,SSD,8.0,true,,true, 0
+Asus,Blue,iOS,547.0,16,Intel,120,Nvidia,ssd,15.0,true,,false, 10

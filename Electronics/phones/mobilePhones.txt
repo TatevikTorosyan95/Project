@@ -1,0 +1,2 @@
+Nokia,Blue,57.0,202.0,Colored,2,N,false
+Samsung,Grey,54.0,123.0,black,1,Y,true

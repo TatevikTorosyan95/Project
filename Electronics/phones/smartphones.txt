@@ -1,0 +1,2 @@
+Apple,Blue,iOS,546.0,7,5,0,2,5.0,n,n,false
+Apple,Blue,iOS,524.0,A10,16,0,4,10.0,y,n,false
